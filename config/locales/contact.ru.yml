@@ -1,0 +1,10 @@
+---
+ru:
+  contact:
+    deliver:
+      success: "Сообщение отправлено"
+      errors:
+        validation: 'Полученные данные некорректны'
+        recaptcha: 'Данные reCAPTCHA не подтверждены'
+        deliver: 'Ошибка отправки сообщения'
+...

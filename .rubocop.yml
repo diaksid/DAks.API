@@ -1,0 +1,14 @@
+Style:
+  Documentation:
+    Enabled: false
+
+Layout:
+  EndOfLine:
+    EnforcedStyle: lf
+
+Metrics:
+  LineLenght: false
+  ModuleLength:
+    Min: 2
+  ClassLength:
+    Min: 2
